@@ -1,0 +1,12 @@
+{
+  "name": "language-nesc",
+  "version": "0.1.0",
+  "description": "A short description of your package",
+  "repository": "https://github.com/tiwalun/language-nesc",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {
+  }
+}
