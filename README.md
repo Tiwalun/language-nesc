@@ -1,10 +1,13 @@
 # nesC language support in Atom
 
-Add syntax highlighting for [nesC](http://nescc.sourceforge.net/) to Atom.
+Adds syntax highlighting and comments to [nesC](http://nescc.sourceforge.net/) files in Atom.
 
-Converted from the [nesC TextMate bundle](https://github.com/cdwilson/nesC.tmbundle) by @cdwilson
+Originally [converted](http://atom.io/docs/latest/converting-a-text-mate-bundle)
+from the [nesC TextMate bundle](https://github.com/cdwilson/nesC.tmbundle).
 
-Contributions are greatly appreciated. Please fork this repository and open a pull request to add snippets, make grammar tweaks, etc.
+Contributions are greatly appreciated. Please fork this repository and open a
+pull request to add snippets, make grammar tweaks, etc.
+
 
 ## License
 
