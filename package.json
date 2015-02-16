@@ -1,6 +1,6 @@
 {
   "name": "language-nesc",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "nesC language support in Atom",
   "repository": "https://github.com/tiwalun/language-nesc",
   "license": "GPL-3.0+",
